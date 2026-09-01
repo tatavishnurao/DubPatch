@@ -7,3 +7,9 @@ Overview of this product/project:
 Evidence-first review for Sarvam-dubbed automotive Shorts. It produces
 `preserved`, `review_required`, or `unable_to_verify`; it never emits a universal
 accuracy score or autonomous certification.
+
+## Architecture
+
+- [System overview](docs/architecture/system-overview.svg)
+- [Critical path](docs/architecture/critical-path.svg)
+- [Evidence notes](docs/architecture/README.md)
