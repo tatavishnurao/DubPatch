@@ -1,0 +1,9 @@
+{
+  "video_id": "demo-drift",
+  "creator": "Synthetic demo fixture",
+  "source_url": "https://example.invalid/local-fixture-only",
+  "target_language": "te-IN",
+  "source_transcript": "benchmark/fixtures/mat_armstrong_source.json",
+  "target_transcript": "benchmark/fixtures/demo_drift/target.json",
+  "stt": {"enabled": false}
+}
